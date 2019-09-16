@@ -1,0 +1,10 @@
+{
+  "latestVersion": "1.1.5",
+  "latestVersionCode": 1,
+  "url": "https://gymkhana-studio.blogspot.com/2019/08/aide-project-v-10.html",
+  "releaseNotes": [
+    "- Fixed Build.gradle file",
+    "- Fix others error",
+    "- Add Remove Project"
+  ]
+}
