@@ -1,0 +1,19 @@
+{
+   "market": [
+        {
+                "icon": "Screen Recorder",
+                "name": "Screen Recorder - No Ads",
+                "apk": "ravi@gmail.com",
+        },
+        {
+                "icon": "c200",
+                "name": "Youtube Downloader - Easy To use",
+                "apk": "ravi@gmail.com",
+        },
+        {
+                "icon": "c200",
+                "name": "Obfuscator String - Obfuscate your String",
+                "apk": "ravi@gmail.com",
+        }
+    ]
+}
