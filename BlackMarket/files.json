@@ -7,12 +7,12 @@
 		},
 		{
 			"icon": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Icon/Youtube.png",
-			"name": "Youtube Downloader - Easy To use",
+			"name": "Youtube Downloader",
 			"apk": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Apk/Youtube.apk"
 		},
 		{
 			"icon": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Icon/Obfuscator.png",
-			"name": "Obfuscator String - Obfuscate your String",
+			"name": "Obfuscator String",
 			"apk": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Apk/Obfuscator.apk"
 		}
 	]
