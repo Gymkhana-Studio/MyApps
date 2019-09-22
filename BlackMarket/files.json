@@ -1,19 +1,19 @@
 {
-   "market": [
-        {
-                "icon": "Screen Recorder",
-                "name": "Screen Recorder - No Ads",
-                "apk": "ravi@gmail.com",
-        },
-        {
-                "icon": "c200",
-                "name": "Youtube Downloader - Easy To use",
-                "apk": "ravi@gmail.com",
-        },
-        {
-                "icon": "c200",
-                "name": "Obfuscator String - Obfuscate your String",
-                "apk": "ravi@gmail.com"
-        }
-    ]
+	"market": [
+		{
+			"icon": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Icon/SCRec.png",
+			"name": "Screen Recorder - No Ads",
+			"apk": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Apk/SCRec.apk"
+		},
+		{
+			"icon": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Icon/Youtube.png",
+			"name": "Youtube Downloader - Easy To use",
+			"apk": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Apk/Youtube.apk"
+		},
+		{
+			"icon": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Icon/Obfuscator.png",
+			"name": "Obfuscator String - Obfuscate your String",
+			"apk": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Apk/Obfuscator.apk"
+		}
+	]
 }
