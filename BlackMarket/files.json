@@ -3,17 +3,20 @@
 		{
 			"icon": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Icon/SCRec.png",
 			"name": "Screen Recorder - No Ads",
-			"apk": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Apk/SCRec.apk"
+			"apk": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Apk/SCRec.apk",
+                        "version": "1.1.1"
 		},
 		{
 			"icon": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Icon/Youtube.png",
 			"name": "Youtube Downloader",
-			"apk": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Apk/Youtube.apk"
+			"apk": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Apk/Youtube.apk",
+                        "version": "1.1.0.2"
 		},
 		{
 			"icon": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Icon/Obfuscator.png",
 			"name": "Obfuscator String",
-			"apk": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Apk/Obfuscator.apk"
+			"apk": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Apk/Obfuscator.apk",
+                        "version": "1.1.0"
 		}
 	]
 }
