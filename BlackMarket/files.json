@@ -4,6 +4,7 @@
                         "pkg": "com.screenrecorder.gymkhana",
 			"icon": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Icon/SCRec.png",
 			"name": "Screen Recorder - No Ads",
+                        "filename": "Screc.apk",
 			"apk": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Apk/SCRec.apk",
                         "version": "1.1.1",
                         "info": "New:\n * Simple Use\n * No ads\n * No Actovity\n * Support Pause/Resume\n * Support Draw Pen"
@@ -12,6 +13,7 @@
                         "pkg": "com.youtube.downloader.gymkhana",
 			"icon": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Icon/Youtube.png",
 			"name": "Youtube Downloader",
+                        "filename": "Youtubedl.apk",
 			"apk": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Apk/Youtube.apk",
                         "version": "1.1.0.2",
                         "info": "New:\n * Fix Bugs"
@@ -20,6 +22,7 @@
                         "pkg": "com.obfuscator.gymkhana",
 			"icon": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Icon/Obfuscator.png",
 			"name": "Obfuscator String",
+                        "filename": "Obfuscator.apk",
 			"apk": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Apk/Obfuscator.apk",
                         "version": "1.1.0",
                         "info": "New:\n * First project"
