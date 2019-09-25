@@ -6,7 +6,7 @@
 			"name": "Screen Recorder - No Ads",
                         "filename": "Screc.apk",
 			"apk": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Apk/SCRec.apk",
-                        "version": "1.1.1",
+                        "version": "1.1",
                         "info": "New:\n * Simple Use\n * No ads\n * No Actovity\n * Support Pause/Resume\n * Support Draw Pen"
 		},
 		{
@@ -15,7 +15,7 @@
 			"name": "Youtube Downloader",
                         "filename": "Youtubedl.apk",
 			"apk": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Apk/Youtube.apk",
-                        "version": "1.1.0.2",
+                        "version": "1.0.2",
                         "info": "New:\n * Fix Bugs"
 		},
 		{
@@ -24,7 +24,7 @@
 			"name": "Obfuscator String",
                         "filename": "Obfuscator.apk",
 			"apk": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Apk/Obfuscator.apk",
-                        "version": "1.1.1",
+                        "version": "1.1",
                         "info": "New:\n * First project"
 		},
                 {
