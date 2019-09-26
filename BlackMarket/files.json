@@ -71,6 +71,42 @@
 			"info": "New:\n * Cracked!",
 			"ss1": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Screen/psiphon1.png",
 			"ss2": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Screen/psiphon2.png"
+		},
+		{
+			"pkg": "com.camel.corp.universalcopy",
+			"icon": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Icon/universalcopy.png",
+			"name": "Universall Copy",
+			"filename": "UniversalCopy.apk",
+			"apk": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Apk/UniversalCopy.apk",
+			"version": "3.1.2",
+			"author": "Author By:      Camel Corporation\nEmail:      contact@camel-corporation.com\nSize Apk:      2.57 mb\nWebsite:      ...",
+			"info": "New:\n * Cracked!",
+			"ss1": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Screen/ucopy1.png",
+			"ss2": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Screen/ucopy2.png"
+		},
+		{
+			"pkg": "com.haibison.apksigner",
+			"icon": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Icon/apksigner.png",
+			"name": "Apk Signer",
+			"filename": "ApkSigner.apk",
+			"apk": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Apk/apksigner.apk",
+			"version": "5.3.2",
+			"author": "Author By:      Hai Bison\nEmail:      haibison.apps@gmail.com\nSize Apk:      7.08 mb\nWebsite:      ...",
+			"info": "New:\n * Cracked!",
+			"ss1": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Screen/apksign1.png",
+			"ss2": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Screen/apksign2.png"
+		},
+		{
+			"pkg": "com.rhmsoft.edit",
+			"icon": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Icon/quickedit.png",
+			"name": "Quick Edit",
+			"filename": "QuickEdit.apk",
+			"apk": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Apk/QuickEdit.apk",
+			"version": "1.4.5",
+			"author": "Author By:      Rhythm Software\nEmail:      support@rhmsoft.com\nSize Apk:      4.46 mb\nWebsite:      http://rhmsoft.com",
+			"info": "New:\n * Cracked!",
+			"ss1": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Screen/quickedit1.png",
+			"ss2": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Screen/quickedit2.png"
 		}
 	]
 }
