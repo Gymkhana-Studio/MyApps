@@ -59,6 +59,18 @@
 			"info": "New:\n * Cracked!",
 			"ss1": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Screen/fex1.png",
 			"ss2": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Screen/fex2.png"
+		},
+		{
+			"pkg": "com.psiphon3.subscription",
+			"icon": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Icon/psiphon.png",
+			"name": "Psiphon Pro",
+			"filename": "PsiphonPro.apk",
+			"apk": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Apk/PsiphonPro.apk",
+			"version": "240",
+			"author": "Author By:      Psiphon INC\nEmail:      psiphon-pro@psiphon.ca\nSize Apk:      17.89 mb\nWebsite:      http://psiphon.ca",
+			"info": "New:\n * Cracked!",
+			"ss1": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Screen/psiphon1.png",
+			"ss2": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Screen/psiphon2.png"
 		}
 	]
 }
