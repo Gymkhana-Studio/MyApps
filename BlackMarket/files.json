@@ -48,5 +48,17 @@
 			"ss1": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Screen/aide1.png",
 			"ss2": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Screen/aide2.png"
 		}
+		{
+			"pkg": "com.file.android.filemanager",
+			"icon": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Icon/fex.png",
+			"name": "Es File Explorer",
+			"filename": "EsFileExplorer.apk",
+			"apk": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Apk/ESFileExplorer.apk",
+			"version": "1.0.1",
+			"author": "Author By:      SmartSolution Tech\nEmail:      gulnazsahzadi191@gmail.com\nSize Apk:      17.22 mb\nWebsite:      ...",
+			"info": "New:\n * Cracked!",
+			"ss1": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Screen/fex1.png",
+			"ss2": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Screen/fex2.png"
+		}
 	]
 }
