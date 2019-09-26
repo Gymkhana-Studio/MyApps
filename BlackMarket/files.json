@@ -36,7 +36,7 @@
 			"ss1": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Screen/ob1.png",
 			"ss2": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Screen/ob2.png"
 		},
-                {
+		{
 			"pkg": "com.aide.ui",
 			"icon": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Icon/Aide.png",
 			"name": "Aide Cracked",
@@ -95,6 +95,18 @@
 			"info": "New:\n * Cracked!",
 			"ss1": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Screen/apksign1.png",
 			"ss2": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Screen/apksign2.png"
+		},
+		{
+			"pkg": "com.quvideo.xiaoying",
+			"icon": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Icon/VivaVideo.png",
+			"name": "Viva Video",
+			"filename": "VivaVideo.apk",
+			"apk": "https://srv-file7.gofile.io/download/fCYzZU/VivaVideo.apk",
+			"version": "7.7.0",
+			"author": "Author By:      QuVideo Inc\nEmail:      support@vivavideo.tv\nSize Apk:      40.39 mb\nWebsite:      http://vivavideo.tv",
+			"info": "New:\n * Cracked!",
+			"ss1": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Screen/vivavideo1.png",
+			"ss2": "https://raw.githubusercontent.com/Gymkhana-Studio/MyApps/master/BlackMarket/Screen/vivavideo2.png"
 		},
 		{
 			"pkg": "com.rhmsoft.edit",
